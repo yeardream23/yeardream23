@@ -1,0 +1,13 @@
+##test
+
+import random
+digit_number = int(input('what length of number? :'))
+def generate_random_number(digit_number):
+    if digit_number >= 3 and digit_number <= 5:
+        return random.sample(range(0, 10), digit_number)
+    else:
+        print('Length of number must be between 3 and 5 :)')
+        digit_number = int(input('what length of number? :'))
+# Example usage:
+generate_random_number(digit_number)
+
