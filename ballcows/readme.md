@@ -1,6 +1,6 @@
 # Bulls and Cows
 
-숫자게임 관련 파일을 모아두는 파일입니다.
+숫자게임 관련 파일을 모아두는 폴더입니다.
 
 [예제 홈페이지](https://www.mathsisfun.com/games/bulls-and-cows.html)
 
